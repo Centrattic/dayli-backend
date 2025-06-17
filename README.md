@@ -1,2 +1,2 @@
 # dayli-backend
-backend for dayli - corgi hackathon
+I love corgis
